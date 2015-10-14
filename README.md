@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
-  This README last updated: 12-July-2015
+  This README last updated: 30-Sep-2015
 ===========================================================================================================
 
 INDEX
@@ -196,7 +196,13 @@ IOS8SwiftPlayMusicAVAudioPlayerTutorial | http://ioscreator.com/tutorials/play-m
 IOS8SwiftCocoapodsTutorial	| http://ioscreator.com/tutorials/cocoapods-tutorial-ios8-swift  
 IOS8SwiftTakeVideoTutorial	| http://ioscreator.com/tutorials/take-video-tutorial-ios8-swift  
 IOS8SwiftTabBarControllerTutorial | http://ioscreator.com/tutorials/tab-bar-controller-tutorial-ios8-swift  
-
+IOS9ContextMenuTableViewTutorial | http://ioscreator.com/tutorials/use-context-menu-table-view-tutorial  
+IOS9DrawShapesTutorial		| http://ioscreator.com/tutorials/drawing-shapes-core-graphics-tutorial  
+IOS9SafariViewControllerTutorial | http://ioscreator.com/tutorials/safari-view-controller-tutorial  
+IOS9StackViewTutorial		| http://ioscreator.com/tutorials/stack-view-tutorial  
+IOS9ReorderingCollectionViewTutorial | http://ioscreator.com/tutorials/reordering-collection-view-cells-tutorial  
+IOS9CoreSpotlightTutorial	| http://ioscreator.com/tutorials/index-app-content-core-spotlight-tutorial  
+IOS9DisableATSTutorial		| http://ioscreator.com/tutorials/disable-apple-transport-security-tutorial  
 
 ===========================================================================================================
 
